@@ -38,10 +38,8 @@ TrueEye builds upon the remarkable work of researchers and developers in the fie
 
 We extend our gratitude to the open-source community for their continuous efforts in advancing computer vision and making powerful tools and datasets available to everyone
 
-##License
+## License
 TrueEye is released under the __MIT License__.
-_True_
-
 
 ## Contact
 
